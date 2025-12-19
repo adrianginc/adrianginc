@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adrian Ginc.</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andriangric&label=Profile%20views&color=0e75b6&style=flat" alt="andriangric" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianginc&label=Profile%20views&color=0e75b6&style=flat" alt="adrianginc" /> </p>
 
 <!-- [![LinkedIn Badge](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourname/)](https://www.linkedin.com/in/yourname/) -->
 <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-0177B5?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://yourportfolio.com)](https://yourportfolio.com) -->
@@ -9,7 +9,7 @@
 
 ### I'm a full stack developer who loves diving into the world of coding.
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andriangric" alt="andriangric" /></a> </p> -->
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adrianginc" alt="adrianginc" /></a> </p> -->
 
 ## 💼 Languages and Tools
 
@@ -122,10 +122,10 @@
 <table align='center'>
     <tr>
         <td>
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=andriangric&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="andriangric's github stats" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=adrianginc&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="adrianginc's github stats" />
         </td>
         <td>
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andriangric&layout=compact&theme=buefy&hide_border=true" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianginc&layout=compact&theme=buefy&hide_border=true" />
         </td>
     </tr>
 </table>
@@ -136,4 +136,4 @@
 
 ## 🎉 Support
 
-<p><a href="https://ko-fi.com/andriangric"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="andriangric" /></a></p><br><br>
+<p><a href="https://ko-fi.com/adrianginc"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="adrianginc" /></a></p><br><br>
